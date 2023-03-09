@@ -2,3 +2,6 @@ git init
 create new envirement: conda create -p venv python=3.8 -y
 active new envirement : activate venv/
 git branch -m Maingit  
+
+git config --global user.name "Ramin Nourizadeh"
+git config --global user.email ramin.nourizade@gmail.com

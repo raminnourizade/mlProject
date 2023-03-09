@@ -9,3 +9,5 @@ git config --global user.email ramin.nourizade@gmail.com
 git push
 
 -e . this command trigger automaticlly setup.py
+
+pip install -r requirements.txt

@@ -1,0 +1,4 @@
+git init
+create new envirement: conda create -p venv python=3.8 -y
+active new envirement : activate venv/
+git branch -m Maingit  

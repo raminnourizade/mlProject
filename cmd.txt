@@ -11,3 +11,5 @@ git push
 -e . this command trigger automaticlly setup.py
 
 pip install -r requirements.txt
+
+pip install ipykernel --trusted-host=pypi.python.org --trusted-host=pypi.org --trusted-host=files.pythonhosted.org
